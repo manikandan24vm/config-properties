@@ -12,7 +12,8 @@ spring:
     hibernate.ddl-auto: update
     generate-ddl: true
     show-sql: true
-    application:
-      name: order-service
+  application:
+    name: order-service
+      
 Build:
   version: 1.2
