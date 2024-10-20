@@ -14,7 +14,7 @@ spring:
     init:
       mode: never
   application:
-    name: user-service
+    name: user
 
 Build:
   version: 1.3
