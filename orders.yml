@@ -12,7 +12,7 @@ spring:
     show-sql: true
 
   application:
-    name: order-service
+    name: orders
 
 Build:
   version: 1.0
