@@ -1,4 +1,5 @@
-
+server:
+  port: 9092
 spring:
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
@@ -13,7 +14,7 @@ spring:
     active: dev
 
   application:
-    name: product-service
+    name: product
 
 
 Build:
